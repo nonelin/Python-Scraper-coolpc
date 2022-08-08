@@ -1,2 +1,2 @@
-# Python-Scraper-coolpc
+# 使用 Python 爬取原價屋價目列表😜
 使用python抓取原價屋價目表網頁資料

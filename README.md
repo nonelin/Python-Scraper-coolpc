@@ -1,7 +1,7 @@
 # 使用 Python 爬取原價屋價目列表😜
 使用python抓取原價屋價目表網頁資料<br>
 使用短短17~25行就能輕鬆辦到，得到初步資料列表，後續將資料如何加工就看自己拉！<br>
-我將資料"加工"後製作個電腦估價系統👉 https://spacex.ddns.net/fakeshop/
+我將資料"加工"後製作個電腦估價系統👉 https://spacex.ddns.net/fakeshop/<br>
 各位慢慢享用!
 
 # 檔案

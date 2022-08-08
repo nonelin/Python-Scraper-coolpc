@@ -14,4 +14,4 @@
 
 # 說明
 這裡不再詳述看這裡吧!👇👇👇<br>
-https://dafatime.idv.tw/2022/05/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8-python-%e7%88%ac%e5%8f%96%e5%8e%9f%e5%83%b9%e5%b1%8b%e5%83%b9%e7%9b%ae%e5%88%97%e8%a1%a8%f0%9f%98%9c/
+<a href="https://dafatime.idv.tw/2022/05/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8-python-%e7%88%ac%e5%8f%96%e5%8e%9f%e5%83%b9%e5%b1%8b%e5%83%b9%e7%9b%ae%e5%88%97%e8%a1%a8%f0%9f%98%9c/" target="_blank">如何使用 Python 爬取原價屋價目列表😜</a>
